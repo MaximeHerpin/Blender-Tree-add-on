@@ -1,5 +1,5 @@
 bl_info = {
-    "name": "ItÃ©rative tree",
+    "name": "Iterative tree",
     "author": "Herpin Maxime",
     "version": (1, 0),
     "blender": (2, 75, 0),
